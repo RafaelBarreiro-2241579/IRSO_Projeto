@@ -1,0 +1,2011 @@
+2024/10/17 17:17:35
+
+2025-01-15 09:20:150.00
+2025-01-15 09:21:070.00
+2025-01-15 09:22:100.00
+2025-01-15 09:23:130.00
+2025-01-15 09:24:160.00
+2025-01-15 09:25:200.00
+2025-01-15 09:26:230.00
+2025-01-15 09:27:250.00
+2025-01-15 09:33:43desligado
+2025-01-15 09:34:46desligado
+2025-01-15 09:35:49desligado
+2025-01-15 09:36:53desligado
+2025-01-15 09:37:56desligado
+2025-01-15 09:39:00desligado
+2025-01-15 09:40:03desligado
+2025-01-15 09:41:07desligado
+2025-01-15 09:42:10desligado
+2025-01-15 09:43:13desligado
+2025-01-15 09:44:17desligado
+2025-01-15 09:45:20desligado
+2025-01-15 09:46:23desligado
+2025-01-15 10:18:50dim
+2025-01-15 10:18:56ligada
+2025-01-15 10:19:01desligada
+2025-01-15 10:19:06dim
+2025-01-15 10:19:12ligada
+2025-01-15 10:19:17desligada
+2025-01-15 10:19:23dim
+2025-01-15 10:19:28ligada
+2025-01-15 10:19:33desligada
+2025-01-15 10:19:39dim
+2025-01-15 10:19:44ligada
+2025-01-15 10:19:48desligada
+2025-01-15 10:19:54desligada
+2025-01-15 10:19:59desligada
+2025-01-15 10:20:05desligada
+2025-01-15 10:20:10desligada
+2025-01-15 10:20:16desligada
+2025-01-15 10:20:21desligada
+2025-01-15 10:20:27desligada
+2025-01-15 10:20:32desligada
+2025-01-15 10:20:38desligada
+2025-01-15 10:20:43desligada
+2025-01-15 10:20:49desligada
+2025-01-15 10:20:54desligada
+2025-01-15 10:21:00desligada
+2025-01-15 10:21:05desligada
+2025-01-15 10:21:10desligada
+2025-01-15 10:21:16desligada
+2025-01-15 10:21:21desligada
+2025-01-15 10:21:27desligada
+2025-01-15 10:21:32desligada
+2025-01-15 10:21:38desligada
+2025-01-15 10:21:43desligada
+2025-01-15 10:21:48desligada
+2025-01-15 10:21:54desligada
+2025-01-15 10:21:59desligada
+2025-01-15 10:22:04desligada
+2025-01-15 10:22:10desligada
+2025-01-15 10:22:15desligada
+2025-01-15 10:22:21desligada
+2025-01-15 10:22:26desligada
+2025-01-15 10:22:32desligada
+2025-01-15 10:22:38desligada
+2025-01-15 10:22:43desligada
+2025-01-15 10:22:49desligada
+2025-01-15 10:22:54desligada
+2025-01-15 10:23:00desligada
+2025-01-15 10:23:05desligada
+2025-01-15 10:23:10desligada
+2025-01-15 10:23:16desligada
+2025-01-15 10:23:21desligada
+2025-01-15 10:23:27desligada
+2025-01-15 10:31:36fechada
+2025-01-15 10:31:41fechada
+2025-01-15 10:31:47fechada
+2025-01-15 10:31:52fechada
+2025-01-15 10:31:58fechada
+2025-01-15 10:32:03fechada
+2025-01-15 10:32:09fechada
+2025-01-15 10:32:14fechada
+2025-01-15 10:32:19fechada
+2025-01-15 10:32:25fechada
+2025-01-15 10:32:30fechada
+2025-01-15 10:32:36fechada
+2025-01-15 10:32:41fechada
+2025-01-15 10:32:47fechada
+2025-01-15 10:32:52fechada
+2025-01-15 10:32:58fechada
+2025-01-15 10:33:03fechada
+2025-01-15 10:33:09fechada
+2025-01-15 10:33:14fechada
+2025-01-15 10:33:20fechada
+2025-01-15 10:33:25fechada
+2025-01-15 10:33:30fechada
+2025-01-15 10:33:36fechada
+2025-01-15 10:33:41fechada
+2025-01-15 10:33:47fechada
+2025-01-15 10:33:52fechada
+2025-01-15 10:33:57fechada
+2025-01-15 10:34:03fechada
+2025-01-15 10:34:08fechada
+2025-01-15 10:34:13fechada
+2025-01-15 10:34:19fechada
+2025-01-15 10:34:24fechada
+2025-01-15 10:34:30fechada
+2025-01-15 10:34:35fechada
+2025-01-15 10:34:40fechada
+2025-01-15 10:34:46fechada
+2025-01-15 10:34:48fechada
+2025-01-15 10:34:53fechada
+2025-01-15 10:34:59fechada
+2025-01-15 10:35:04fechada
+2025-01-15 10:35:09fechada
+2025-01-15 10:35:15fechada
+2025-01-15 10:35:20fechada
+2025-01-15 10:35:26fechada
+2025-01-15 10:35:31fechada
+2025-01-15 10:35:37fechada
+2025-01-15 10:35:42fechada
+2025-01-15 10:35:47fechada
+2025-01-15 10:35:53fechada
+2025-01-15 10:35:58fechada
+2025-01-15 10:36:04fechada
+2025-01-15 10:36:09fechada
+2025-01-15 10:36:14fechada
+2025-01-15 10:36:20fechada
+2025-01-15 10:36:25fechada
+2025-01-15 10:36:31fechada
+2025-01-15 10:36:36fechada
+2025-01-15 10:36:37fechada
+2025-01-15 10:36:42fechada
+2025-01-15 10:36:48fechada
+2025-01-15 10:36:53fechada
+2025-01-15 10:36:59fechada
+2025-01-15 10:37:04fechada
+2025-01-15 10:37:10fechada
+2025-01-15 10:37:15fechada
+2025-01-15 10:37:20fechada
+2025-01-15 10:37:26fechada
+2025-01-15 10:37:31fechada
+2025-01-15 10:37:37fechada
+2025-01-15 10:37:42fechada
+2025-01-15 10:37:47fechada
+2025-01-15 10:37:53fechada
+2025-01-15 10:37:58fechada
+2025-01-15 10:38:04fechada
+2025-01-15 10:38:09fechada
+2025-01-15 10:38:14fechada
+2025-01-15 10:38:20fechada
+2025-01-15 10:38:25fechada
+2025-01-15 10:38:31fechada
+2025-01-15 10:38:36fechada
+2025-01-15 10:38:41fechada
+2025-01-15 10:38:47fechada
+2025-01-15 10:38:52fechada
+2025-01-15 10:38:58fechada
+2025-01-15 10:39:03fechada
+2025-01-15 10:39:08fechada
+2025-01-15 10:39:14fechada
+2025-01-15 10:39:19fechada
+2025-01-15 10:39:25fechada
+2025-01-15 10:39:30fechada
+2025-01-15 10:39:35fechada
+2025-01-15 10:39:41fechada
+2025-01-15 10:39:46fechada
+2025-01-15 10:39:52fechada
+2025-01-15 10:39:57fechada
+2025-01-15 10:40:03fechada
+2025-01-15 10:40:08fechada
+2025-01-15 10:40:13fechada
+2025-01-15 10:40:19fechada
+2025-01-15 10:40:24fechada
+2025-01-15 10:40:29fechada
+2025-01-15 10:40:35fechada
+2025-01-15 10:40:40fechada
+2025-01-15 10:40:46fechada
+2025-01-15 10:40:51fechada
+2025-01-15 10:40:56fechada
+2025-01-15 10:41:02fechada
+2025-01-15 10:41:07fechada
+2025-01-15 10:41:13fechada
+2025-01-15 10:41:18fechada
+2025-01-15 10:41:24fechada
+2025-01-15 10:41:29fechada
+2025-01-15 10:41:35fechada
+2025-01-15 10:41:40fechada
+2025-01-15 10:41:45fechada
+2025-01-15 10:41:51fechada
+2025-01-15 10:41:56fechada
+2025-01-15 10:42:02fechada
+2025-01-15 10:42:07fechada
+2025-01-15 10:42:12fechada
+2025-01-15 10:42:18fechada
+2025-01-15 10:42:23fechada
+2025-01-15 10:42:29fechada
+2025-01-15 10:42:34fechada
+2025-01-15 10:42:39fechada
+2025-01-15 10:42:45fechada
+2025-01-15 10:42:50fechada
+2025-01-15 10:42:56fechada
+2025-01-15 10:43:01fechada
+2025-01-15 10:43:07fechada
+2025-01-15 10:43:12fechada
+2025-01-15 10:43:17fechada
+2025-01-15 10:43:23fechada
+2025-01-15 10:43:28fechada
+2025-01-15 10:43:34fechada
+2025-01-15 10:43:39fechada
+2025-01-15 10:43:44fechada
+2025-01-15 10:43:50fechada
+2025-01-15 10:43:55fechada
+2025-01-15 10:44:01fechada
+2025-01-15 10:44:06fechada
+2025-01-15 10:44:11fechada
+2025-01-15 10:44:17fechada
+2025-01-15 10:44:22fechada
+2025-01-15 10:44:28fechada
+2025-01-15 10:44:33fechada
+2025-01-15 10:44:38fechada
+2025-01-15 10:44:44fechada
+2025-01-15 10:44:49fechada
+2025-01-15 10:44:55fechada
+2025-01-15 10:45:00fechada
+2025-01-15 10:45:05fechada
+2025-01-15 10:45:11fechada
+2025-01-15 10:45:16fechada
+2025-01-15 10:45:22fechada
+2025-01-15 10:45:27fechada
+2025-01-15 10:45:33fechada
+2025-01-15 10:45:38fechada
+2025-01-15 10:45:43fechada
+2025-01-15 10:45:49fechada
+2025-01-15 10:45:54fechada
+2025-01-15 10:46:00fechada
+2025-01-15 10:46:05fechada
+2025-01-15 10:46:10fechada
+2025-01-15 10:46:16fechada
+2025-01-15 10:46:21fechada
+2025-01-15 10:46:27fechada
+2025-01-15 10:46:32fechada
+2025-01-15 10:46:37fechada
+2025-01-15 10:46:43fechada
+2025-01-15 10:46:48fechada
+2025-01-15 10:46:54fechada
+2025-01-15 10:46:59fechada
+2025-01-15 10:47:04fechada
+2025-01-15 10:47:10fechada
+2025-01-15 10:47:15fechada
+2025-01-15 10:47:21fechada
+2025-01-15 10:47:26fechada
+2025-01-15 10:47:32fechada
+2025-01-15 10:47:37fechada
+2025-01-15 10:47:42fechada
+2025-01-15 10:47:48fechada
+2025-01-15 10:47:53fechada
+2025-01-15 10:47:58fechada
+2025-01-15 10:48:04fechada
+2025-01-15 10:48:09fechada
+2025-01-15 10:48:15fechada
+2025-01-15 10:48:20fechada
+2025-01-15 10:48:25fechada
+2025-01-15 10:48:31fechada
+2025-01-15 10:48:36fechada
+2025-01-15 10:48:42fechada
+2025-01-15 10:48:47fechada
+2025-01-15 11:06:15fechada
+2025-01-15 11:06:21fechada
+2025-01-15 11:06:26fechada
+2025-01-15 11:06:31fechada
+2025-01-15 11:06:37fechada
+2025-01-15 11:06:42fechada
+2025-01-15 11:06:48fechada
+2025-01-15 11:06:53fechada
+2025-01-15 11:06:58fechada
+2025-01-15 11:07:04fechada
+2025-01-15 11:07:09fechada
+2025-01-15 11:07:14fechada
+2025-01-15 11:07:20fechada
+2025-01-15 11:07:25fechada
+2025-01-15 11:07:30fechada
+2025-01-15 11:07:36fechada
+2025-01-15 11:07:41fechada
+2025-01-15 11:07:47fechada
+2025-01-15 11:07:53fechada
+2025-01-15 11:07:58fechada
+2025-01-15 11:08:04fechada
+2025-01-15 11:08:09fechada
+2025-01-15 11:08:14fechada
+2025-01-15 11:08:20fechada
+2025-01-15 11:08:25fechada
+2025-01-15 11:08:31fechada
+2025-01-15 11:08:52não funcionando
+2025-01-15 11:08:58não funcionando
+2025-01-15 11:09:03não funcionando
+2025-01-15 11:09:08não funcionando
+2025-01-15 11:09:14não funcionando
+2025-01-15 11:09:19não funcionando
+2025-01-15 11:09:24não funcionando
+2025-01-15 11:09:30não funcionando
+2025-01-15 11:09:35não funcionando
+2025-01-15 11:09:41não funcionando
+2025-01-15 11:09:46não funcionando
+2025-01-15 11:09:52não funcionando
+2025-01-15 11:09:57não funcionando
+2025-01-15 11:10:02não funcionando
+2025-01-15 11:10:08não funcionando
+2025-01-15 11:10:13não funcionando
+2025-01-15 11:10:19não funcionando
+2025-01-15 11:10:24não funcionando
+2025-01-15 11:10:30não funcionando
+2025-01-15 11:10:35não funcionando
+2025-01-15 11:10:40não funcionando
+2025-01-15 11:10:46não funcionando
+2025-01-15 11:10:51funcionando
+2025-01-15 11:10:56funcionando
+2025-01-15 11:11:02funcionando
+2025-01-15 11:11:07funcionando
+2025-01-15 11:11:12funcionando
+2025-01-15 11:11:18funcionando
+2025-01-15 11:11:23funcionando
+2025-01-15 11:11:29funcionando
+2025-01-15 11:11:34funcionando
+2025-01-15 11:11:39funcionando
+2025-01-15 11:11:45funcionando
+2025-01-15 11:11:50funcionando
+2025-01-15 11:11:55funcionando
+2025-01-15 11:12:01funcionando
+2025-01-15 11:12:06funcionando
+2025-01-15 11:12:11funcionando
+2025-01-15 11:12:17funcionando
+2025-01-15 11:12:22funcionando
+2025-01-15 11:12:28funcionando
+2025-01-15 11:12:33funcionando
+2025-01-15 11:12:39funcionando
+2025-01-15 11:12:44funcionando
+2025-01-15 11:12:50funcionando
+2025-01-15 11:12:56funcionando
+2025-01-15 11:13:01funcionando
+2025-01-15 11:13:07funcionando
+2025-01-15 11:13:12funcionando
+2025-01-15 11:13:17funcionando
+2025-01-15 11:13:23funcionando
+2025-01-15 11:13:28funcionando
+2025-01-15 11:13:34funcionando
+2025-01-15 11:13:39funcionando
+2025-01-15 11:13:45funcionando
+2025-01-15 11:13:50funcionando
+2025-01-15 11:13:56funcionando
+2025-01-15 11:14:01funcionando
+2025-01-15 11:14:06funcionando
+2025-01-15 11:14:12funcionando
+2025-01-15 11:14:17funcionando
+2025-01-15 11:14:23funcionando
+2025-01-15 11:14:28funcionando
+2025-01-15 11:14:34funcionando
+2025-01-15 11:14:39funcionando
+2025-01-15 11:14:45funcionando
+2025-01-15 11:14:50funcionando
+2025-01-15 11:14:56funcionando
+2025-01-15 11:15:01funcionando
+2025-01-15 11:15:06funcionando
+2025-01-15 11:15:12funcionando
+2025-01-15 11:15:17funcionando
+2025-01-15 11:15:23funcionando
+2025-01-15 11:15:28funcionando
+2025-01-15 11:15:34funcionando
+2025-01-15 11:15:39funcionando
+2025-01-15 11:15:45funcionando
+2025-01-15 11:15:50funcionando
+2025-01-15 11:15:56funcionando
+2025-01-15 11:16:01funcionando
+2025-01-15 11:16:07funcionando
+2025-01-15 11:16:12funcionando
+2025-01-15 11:16:18funcionando
+2025-01-15 11:16:23funcionando
+2025-01-15 11:16:29funcionando
+2025-01-15 11:16:34funcionando
+2025-01-15 11:16:40funcionando
+2025-01-15 11:16:45funcionando
+2025-01-15 11:16:51funcionando
+2025-01-15 11:16:56funcionando
+2025-01-15 11:17:02funcionando
+2025-01-15 11:17:07funcionando
+2025-01-15 11:17:13funcionando
+2025-01-15 11:17:18funcionando
+2025-01-15 11:17:24funcionando
+2025-01-15 11:17:29funcionando
+2025-01-15 11:17:35funcionando
+2025-01-15 11:17:40funcionando
+2025-01-15 11:17:46funcionando
+2025-01-15 11:17:51funcionando
+2025-01-15 11:17:57funcionando
+2025-01-15 11:18:02funcionando
+2025-01-15 11:18:08funcionando
+2025-01-15 11:18:13funcionando
+2025-01-15 11:18:19funcionando
+2025-01-15 11:18:24funcionando
+2025-01-15 11:18:30funcionando
+2025-01-15 11:18:35funcionando
+2025-01-15 11:18:41funcionando
+2025-01-15 11:18:46funcionando
+2025-01-15 11:18:52funcionando
+2025-01-15 11:18:57funcionando
+2025-01-15 11:19:03funcionando
+2025-01-15 11:19:08funcionando
+2025-01-15 11:19:14funcionando
+2025-01-15 11:19:19funcionando
+2025-01-15 11:19:25funcionando
+2025-01-15 11:19:30funcionando
+2025-01-15 11:19:36funcionando
+2025-01-15 11:19:41funcionando
+2025-01-15 11:19:47funcionando
+2025-01-15 11:19:52funcionando
+2025-01-15 11:19:58funcionando
+2025-01-15 11:20:03funcionando
+2025-01-15 11:20:09funcionando
+2025-01-15 11:20:14funcionando
+2025-01-15 11:20:20funcionando
+2025-01-15 11:20:25funcionando
+2025-01-15 11:20:30funcionando
+2025-01-15 11:20:36funcionando
+2025-01-15 11:20:41funcionando
+2025-01-15 11:20:47funcionando
+2025-01-15 11:20:52funcionando
+2025-01-15 11:20:58funcionando
+2025-01-15 11:21:03funcionando
+2025-01-15 11:21:09funcionando
+2025-01-15 11:21:14funcionando
+2025-01-15 11:21:19funcionando
+2025-01-15 11:21:25funcionando
+2025-01-15 11:21:30funcionando
+2025-01-15 11:21:36funcionando
+2025-01-15 11:21:41funcionando
+2025-01-15 11:21:47funcionando
+2025-01-15 11:21:52funcionando
+2025-01-15 11:21:58funcionando
+2025-01-15 11:22:03funcionando
+2025-01-15 11:22:09funcionando
+2025-01-15 11:22:14funcionando
+2025-01-15 11:22:20funcionando
+2025-01-15 11:22:25funcionando
+2025-01-15 11:22:31funcionando
+2025-01-15 11:22:36funcionando
+2025-01-15 11:22:42funcionando
+2025-01-15 11:22:47funcionando
+2025-01-15 11:22:52funcionando
+2025-01-15 11:22:58funcionando
+2025-01-15 11:23:03funcionando
+2025-01-15 11:23:09funcionando
+2025-01-15 11:23:14funcionando
+2025-01-15 11:23:20funcionando
+2025-01-15 11:23:25funcionando
+2025-01-15 11:23:31funcionando
+2025-01-15 11:23:36funcionando
+2025-01-15 11:23:42funcionando
+2025-01-15 11:23:47funcionando
+2025-01-15 11:23:53funcionando
+2025-01-15 11:23:58funcionando
+2025-01-15 11:24:04funcionando
+2025-01-15 11:24:09funcionando
+2025-01-15 11:24:15funcionando
+2025-01-15 11:24:20funcionando
+2025-01-15 11:24:26funcionando
+2025-01-15 11:24:31funcionando
+2025-01-15 11:24:36funcionando
+2025-01-15 11:24:42funcionando
+2025-01-15 11:24:48funcionando
+2025-01-15 11:24:53funcionando
+2025-01-15 11:24:58funcionando
+2025-01-15 11:25:04funcionando
+2025-01-15 11:25:09funcionando
+2025-01-15 11:25:15funcionando
+2025-01-15 11:25:20funcionando
+2025-01-15 11:25:26funcionando
+2025-01-15 11:25:31funcionando
+2025-01-15 11:25:37funcionando
+2025-01-15 11:25:42funcionando
+2025-01-15 11:25:48funcionando
+2025-01-15 11:25:53funcionando
+2025-01-15 11:25:59funcionando
+2025-01-15 11:26:04funcionando
+2025-01-15 11:26:10funcionando
+2025-01-15 11:26:15funcionando
+2025-01-15 11:26:21funcionando
+2025-01-15 11:26:26funcionando
+2025-01-15 11:26:31funcionando
+2025-01-15 11:26:37funcionando
+2025-01-15 11:26:42funcionando
+2025-01-15 11:26:48funcionando
+2025-01-15 11:26:53funcionando
+2025-01-15 11:26:59funcionando
+2025-01-15 11:27:04funcionando
+2025-01-15 11:27:10funcionando
+2025-01-15 11:27:15funcionando
+2025-01-15 11:27:21funcionando
+2025-01-15 11:27:26funcionando
+2025-01-15 11:27:32funcionando
+2025-01-15 11:27:37funcionando
+2025-01-15 11:27:42funcionando
+2025-01-15 11:27:48funcionando
+2025-01-15 11:27:53funcionando
+2025-01-15 11:27:59funcionando
+2025-01-15 11:28:04funcionando
+2025-01-15 11:28:10funcionando
+2025-01-15 11:28:15funcionando
+2025-01-15 11:28:21funcionando
+2025-01-15 11:28:26funcionando
+2025-01-15 11:28:32funcionando
+2025-01-15 11:28:37funcionando
+2025-01-15 11:28:43funcionando
+2025-01-15 11:28:48funcionando
+2025-01-15 11:28:54funcionando
+2025-01-15 11:28:59funcionando
+2025-01-15 11:29:05funcionando
+2025-01-15 11:29:10funcionando
+2025-01-15 11:29:16funcionando
+2025-01-15 11:29:21funcionando
+2025-01-15 11:29:27funcionando
+2025-01-15 11:29:32funcionando
+2025-01-15 11:29:38funcionando
+2025-01-15 11:29:43funcionando
+2025-01-15 11:29:49funcionando
+2025-01-15 11:29:54funcionando
+2025-01-15 11:29:59funcionando
+2025-01-15 11:30:05funcionando
+2025-01-15 11:30:10funcionando
+2025-01-15 11:30:15funcionando
+2025-01-15 11:30:21funcionando
+2025-01-15 11:30:26funcionando
+2025-01-15 11:30:31funcionando
+2025-01-15 11:30:37funcionando
+2025-01-15 11:30:42funcionando
+2025-01-15 11:30:47funcionando
+2025-01-15 11:30:53funcionando
+2025-01-15 11:30:58funcionando
+2025-01-15 11:31:03funcionando
+2025-01-15 11:31:09funcionando
+2025-01-15 11:31:14funcionando
+2025-01-15 11:31:19funcionando
+2025-01-15 11:31:25funcionando
+2025-01-15 11:31:30funcionando
+2025-01-15 11:31:36funcionando
+2025-01-15 11:31:41funcionando
+2025-01-15 11:31:46funcionando
+2025-01-15 11:31:52funcionando
+2025-01-15 11:31:57funcionando
+2025-01-15 11:32:02funcionando
+2025-01-15 11:32:08funcionando
+2025-01-15 11:32:13funcionando
+2025-01-15 11:32:18funcionando
+2025-01-15 11:32:24funcionando
+2025-01-15 11:32:29funcionando
+2025-01-15 11:32:34funcionando
+2025-01-15 11:32:40funcionando
+2025-01-15 11:32:45funcionando
+2025-01-15 11:32:51funcionando
+2025-01-15 11:32:56funcionando
+2025-01-15 11:33:01funcionando
+2025-01-15 11:33:07funcionando
+2025-01-15 11:33:12funcionando
+2025-01-15 11:33:17funcionando
+2025-01-15 11:33:23funcionando
+2025-01-15 11:33:28funcionando
+2025-01-15 11:33:34funcionando
+2025-01-15 11:33:39funcionando
+2025-01-15 11:33:44funcionando
+2025-01-15 11:33:50funcionando
+2025-01-15 11:33:55funcionando
+2025-01-15 11:34:00funcionando
+2025-01-15 11:34:06funcionando
+2025-01-15 11:34:11funcionando
+2025-01-15 11:34:16funcionando
+2025-01-15 11:34:22funcionando
+2025-01-15 11:34:27funcionando
+2025-01-15 11:34:33funcionando
+2025-01-15 11:34:38não funcionando
+2025-01-15 11:34:43não funcionando
+2025-01-15 11:34:49não funcionando
+2025-01-15 11:34:54não funcionando
+2025-01-15 11:34:59não funcionando
+2025-01-15 11:35:05não funcionando
+2025-01-15 11:35:10não funcionando
+2025-01-15 11:35:16não funcionando
+2025-01-15 11:35:21não funcionando
+2025-01-15 11:35:26não funcionando
+2025-01-15 11:35:32não funcionando
+2025-01-15 11:35:37não funcionando
+2025-01-15 11:35:42não funcionando
+2025-01-15 11:35:48não funcionando
+2025-01-15 11:35:53não funcionando
+2025-01-15 11:35:58não funcionando
+2025-01-15 11:36:04não funcionando
+2025-01-15 11:36:09não funcionando
+2025-01-15 11:36:14não funcionando
+2025-01-15 11:36:20não funcionando
+2025-01-15 11:36:25não funcionando
+2025-01-15 11:36:31não funcionando
+2025-01-15 11:36:36não funcionando
+2025-01-15 11:36:41não funcionando
+2025-01-15 11:36:47não funcionando
+2025-01-15 11:36:52não funcionando
+2025-01-15 11:36:57não funcionando
+2025-01-15 11:37:03não funcionando
+2025-01-15 11:37:08não funcionando
+2025-01-15 11:37:13não funcionando
+2025-01-15 11:37:19não funcionando
+2025-01-15 11:37:24não funcionando
+2025-01-15 11:37:29não funcionando
+2025-01-15 11:37:35não funcionando
+2025-01-15 11:37:40não funcionando
+2025-01-15 11:37:45não funcionando
+2025-01-15 11:37:51não funcionando
+2025-01-15 11:37:56não funcionando
+2025-01-15 11:38:01não funcionando
+2025-01-15 11:38:07não funcionando
+2025-01-15 11:38:12não funcionando
+2025-01-15 11:38:18não funcionando
+2025-01-15 11:38:23não funcionando
+2025-01-15 11:38:28não funcionando
+2025-01-15 11:38:34não funcionando
+2025-01-15 11:38:39não funcionando
+2025-01-15 11:38:44não funcionando
+2025-01-15 11:38:50não funcionando
+2025-01-15 11:38:55não funcionando
+2025-01-15 11:39:00não funcionando
+2025-01-15 11:39:06não funcionando
+2025-01-15 11:39:11não funcionando
+2025-01-15 11:39:16não funcionando
+2025-01-15 11:39:22não funcionando
+2025-01-15 11:39:27não funcionando
+2025-01-15 11:39:32não funcionando
+2025-01-15 11:39:38não funcionando
+2025-01-15 11:39:43não funcionando
+2025-01-15 11:39:49não funcionando
+2025-01-15 11:39:54não funcionando
+2025-01-15 11:39:59não funcionando
+2025-01-15 11:40:05não funcionando
+2025-01-15 11:40:10não funcionando
+2025-01-15 11:40:15não funcionando
+2025-01-15 11:40:21não funcionando
+2025-01-15 11:40:26não funcionando
+2025-01-15 11:40:31não funcionando
+2025-01-15 11:40:37não funcionando
+2025-01-15 11:40:42não funcionando
+2025-01-15 11:40:47não funcionando
+2025-01-15 11:40:53não funcionando
+2025-01-15 11:40:58não funcionando
+2025-01-15 11:41:03não funcionando
+2025-01-15 11:41:09não funcionando
+2025-01-15 11:41:14não funcionando
+2025-01-15 11:41:19não funcionando
+2025-01-15 11:41:25não funcionando
+2025-01-15 11:41:30não funcionando
+2025-01-15 11:41:35não funcionando
+2025-01-15 11:41:41não funcionando
+2025-01-15 11:41:46não funcionando
+2025-01-15 11:41:51não funcionando
+2025-01-15 11:41:57não funcionando
+2025-01-15 11:42:02não funcionando
+2025-01-15 11:42:07não funcionando
+2025-01-15 11:42:13não funcionando
+2025-01-15 11:42:18não funcionando
+2025-01-15 11:42:23não funcionando
+2025-01-15 11:42:29não funcionando
+2025-01-15 11:42:34não funcionando
+2025-01-15 11:42:40não funcionando
+2025-01-15 11:42:45não funcionando
+2025-01-15 11:42:50não funcionando
+2025-01-15 11:42:56não funcionando
+2025-01-15 11:43:01não funcionando
+2025-01-15 11:43:06não funcionando
+2025-01-15 11:43:12não funcionando
+2025-01-15 11:43:17não funcionando
+2025-01-15 11:43:22não funcionando
+2025-01-15 11:43:28não funcionando
+2025-01-15 11:43:33não funcionando
+2025-01-15 11:43:38não funcionando
+2025-01-15 11:43:44não funcionando
+2025-01-15 11:43:49não funcionando
+2025-01-15 11:43:54não funcionando
+2025-01-15 11:44:00não funcionando
+2025-01-15 11:44:05não funcionando
+2025-01-15 11:44:10não funcionando
+2025-01-15 11:44:16não funcionando
+2025-01-15 11:44:21não funcionando
+2025-01-15 11:44:26não funcionando
+2025-01-15 11:44:32não funcionando
+2025-01-15 11:44:37não funcionando
+2025-01-15 11:44:42não funcionando
+2025-01-15 11:44:48não funcionando
+2025-01-15 11:44:53não funcionando
+2025-01-15 11:44:58não funcionando
+2025-01-15 11:45:04não funcionando
+2025-01-15 11:45:09não funcionando
+2025-01-15 11:45:14não funcionando
+2025-01-15 11:45:20não funcionando
+2025-01-15 11:45:25não funcionando
+2025-01-15 11:45:31não funcionando
+2025-01-15 11:45:36não funcionando
+2025-01-15 11:45:41não funcionando
+2025-01-15 11:45:47não funcionando
+2025-01-15 11:45:52não funcionando
+2025-01-15 11:45:57não funcionando
+2025-01-15 11:46:03não funcionando
+2025-01-15 11:46:08não funcionando
+2025-01-15 11:46:13não funcionando
+2025-01-15 11:46:19não funcionando
+2025-01-15 11:46:24não funcionando
+2025-01-15 11:46:30não funcionando
+2025-01-15 11:46:35não funcionando
+2025-01-15 11:46:40não funcionando
+2025-01-15 11:46:46não funcionando
+2025-01-15 11:46:51não funcionando
+2025-01-15 11:46:56não funcionando
+2025-01-15 11:47:02não funcionando
+2025-01-15 11:47:07não funcionando
+2025-01-15 11:47:12não funcionando
+2025-01-15 11:47:18não funcionando
+2025-01-15 11:47:23não funcionando
+2025-01-15 11:47:28não funcionando
+2025-01-15 11:47:34não funcionando
+2025-01-15 11:47:39não funcionando
+2025-01-15 11:47:44não funcionando
+2025-01-15 11:47:50não funcionando
+2025-01-15 11:47:55não funcionando
+2025-01-15 11:48:01não funcionando
+2025-01-15 11:48:06não funcionando
+2025-01-15 11:48:11não funcionando
+2025-01-15 11:48:17não funcionando
+2025-01-15 11:48:22não funcionando
+2025-01-15 11:48:27não funcionando
+2025-01-15 11:48:33não funcionando
+2025-01-15 11:48:38não funcionando
+2025-01-15 11:48:43não funcionando
+2025-01-15 11:48:49não funcionando
+2025-01-15 11:48:54não funcionando
+2025-01-15 11:48:59não funcionando
+2025-01-15 11:49:05não funcionando
+2025-01-15 11:49:10não funcionando
+2025-01-15 11:49:16não funcionando
+2025-01-15 11:49:21não funcionando
+2025-01-15 11:49:26não funcionando
+2025-01-15 11:49:32não funcionando
+2025-01-15 11:49:37não funcionando
+2025-01-15 11:49:42não funcionando
+2025-01-15 11:49:48não funcionando
+2025-01-15 11:49:53não funcionando
+2025-01-15 11:49:58não funcionando
+2025-01-15 11:50:04não funcionando
+2025-01-15 11:50:09não funcionando
+2025-01-15 11:50:14não funcionando
+2025-01-15 11:50:20não funcionando
+2025-01-15 11:50:25não funcionando
+2025-01-15 11:50:30não funcionando
+2025-01-15 11:50:36não funcionando
+2025-01-15 11:50:41não funcionando
+2025-01-15 11:50:47não funcionando
+2025-01-15 11:50:52não funcionando
+2025-01-15 11:50:57não funcionando
+2025-01-15 11:51:03não funcionando
+2025-01-15 11:51:08não funcionando
+2025-01-15 11:51:13não funcionando
+2025-01-15 11:51:19não funcionando
+2025-01-15 11:51:24não funcionando
+2025-01-15 11:51:29não funcionando
+2025-01-15 11:51:35não funcionando
+2025-01-15 11:51:40não funcionando
+2025-01-15 11:51:45não funcionando
+2025-01-15 11:51:51não funcionando
+2025-01-15 11:51:56não funcionando
+2025-01-15 11:52:01não funcionando
+2025-01-15 11:52:07não funcionando
+2025-01-15 11:52:12não funcionando
+2025-01-15 11:52:17não funcionando
+2025-01-15 11:52:23não funcionando
+2025-01-15 11:52:28não funcionando
+2025-01-15 11:52:34não funcionando
+2025-01-15 11:52:39não funcionando
+2025-01-15 11:52:44não funcionando
+2025-01-15 11:52:50não funcionando
+2025-01-15 11:52:55não funcionando
+2025-01-15 11:53:00não funcionando
+2025-01-15 11:53:06não funcionando
+2025-01-15 11:53:11não funcionando
+2025-01-15 11:53:16não funcionando
+2025-01-15 11:53:22não funcionando
+2025-01-15 11:53:27não funcionando
+2025-01-15 11:53:32não funcionando
+2025-01-15 11:53:38não funcionando
+2025-01-15 11:53:43não funcionando
+2025-01-15 11:53:48não funcionando
+2025-01-15 11:53:54não funcionando
+2025-01-15 11:53:59não funcionando
+2025-01-15 11:54:05não funcionando
+2025-01-15 11:54:10não funcionando
+2025-01-15 11:54:15não funcionando
+2025-01-15 11:54:21não funcionando
+2025-01-15 11:54:26não funcionando
+2025-01-15 11:54:31não funcionando
+2025-01-15 11:54:37não funcionando
+2025-01-15 11:54:42não funcionando
+2025-01-15 11:54:47não funcionando
+2025-01-15 11:54:53não funcionando
+2025-01-15 11:54:58não funcionando
+2025-01-15 11:55:03não funcionando
+2025-01-15 11:55:09não funcionando
+2025-01-15 11:55:14não funcionando
+2025-01-15 11:55:19não funcionando
+2025-01-15 11:55:25não funcionando
+2025-01-15 11:55:30não funcionando
+2025-01-15 11:55:36não funcionando
+2025-01-15 11:55:41não funcionando
+2025-01-15 11:55:46não funcionando
+2025-01-15 11:55:52não funcionando
+2025-01-15 11:55:57não funcionando
+2025-01-15 11:56:02não funcionando
+2025-01-15 11:56:08não funcionando
+2025-01-15 11:56:13não funcionando
+2025-01-15 11:56:18não funcionando
+2025-01-15 11:56:24não funcionando
+2025-01-15 11:56:29não funcionando
+2025-01-15 11:56:34não funcionando
+2025-01-15 11:56:40não funcionando
+2025-01-15 11:56:45não funcionando
+2025-01-15 11:56:50não funcionando
+2025-01-15 11:56:56não funcionando
+2025-01-15 11:57:01não funcionando
+2025-01-15 11:57:07não funcionando
+2025-01-15 11:57:12não funcionando
+2025-01-15 11:57:17não funcionando
+2025-01-15 11:57:23não funcionando
+2025-01-15 11:57:28não funcionando
+2025-01-15 11:57:33não funcionando
+2025-01-15 11:57:39não funcionando
+2025-01-15 11:57:44não funcionando
+2025-01-15 11:57:50não funcionando
+2025-01-15 11:57:55não funcionando
+2025-01-15 11:58:01não funcionando
+2025-01-15 11:58:06não funcionando
+2025-01-15 11:58:11não funcionando
+2025-01-15 11:58:17não funcionando
+2025-01-15 11:58:22não funcionando
+2025-01-15 11:58:28não funcionando
+2025-01-15 11:58:33não funcionando
+2025-01-15 11:58:38não funcionando
+2025-01-15 11:58:44não funcionando
+2025-01-15 11:58:49funcionando
+2025-01-15 11:58:54funcionando
+2025-01-15 11:59:00funcionando
+2025-01-15 11:59:05funcionando
+2025-01-15 11:59:10funcionando
+2025-01-15 11:59:16funcionando
+2025-01-15 11:59:21funcionando
+2025-01-15 11:59:27funcionando
+2025-01-15 11:59:32funcionando
+2025-01-15 11:59:37funcionando
+2025-01-15 11:59:43funcionando
+2025-01-15 11:59:48funcionando
+2025-01-15 11:59:53funcionando
+2025-01-15 11:59:59funcionando
+2025-01-15 12:00:04funcionando
+2025-01-15 12:00:09funcionando
+2025-01-15 12:00:15funcionando
+2025-01-15 12:00:20funcionando
+2025-01-15 12:00:26funcionando
+2025-01-15 12:00:31funcionando
+2025-01-15 12:00:36funcionando
+2025-01-15 12:00:42funcionando
+2025-01-15 12:00:47funcionando
+2025-01-15 12:00:52funcionando
+2025-01-15 12:00:58funcionando
+2025-01-15 12:01:03funcionando
+2025-01-15 12:01:09funcionando
+2025-01-15 12:01:14funcionando
+2025-01-15 12:01:19funcionando
+2025-01-15 12:01:25funcionando
+2025-01-15 12:01:30funcionando
+2025-01-15 12:01:35funcionando
+2025-01-15 12:01:41funcionando
+2025-01-15 12:01:46funcionando
+2025-01-15 12:01:51funcionando
+2025-01-15 12:01:57funcionando
+2025-01-15 12:02:02funcionando
+2025-01-15 12:02:08funcionando
+2025-01-15 12:02:13funcionando
+2025-01-15 12:02:18funcionando
+2025-01-15 12:02:24funcionando
+2025-01-15 12:02:29funcionando
+2025-01-15 12:02:34funcionando
+2025-01-15 12:02:40funcionando
+2025-01-15 12:02:45funcionando
+2025-01-15 12:02:50funcionando
+2025-01-15 12:02:56funcionando
+2025-01-15 12:03:01funcionando
+2025-01-15 12:03:06funcionando
+2025-01-15 12:03:12funcionando
+2025-01-15 12:03:17funcionando
+2025-01-15 12:03:23funcionando
+2025-01-15 12:03:28funcionando
+2025-01-15 12:03:33funcionando
+2025-01-15 12:03:39funcionando
+2025-01-15 12:03:44funcionando
+2025-01-15 12:03:49funcionando
+2025-01-15 12:03:55funcionando
+2025-01-15 12:04:00funcionando
+2025-01-15 12:04:05funcionando
+2025-01-15 12:04:11funcionando
+2025-01-15 12:04:16funcionando
+2025-01-15 12:04:22funcionando
+2025-01-15 12:04:27funcionando
+2025-01-15 12:04:32funcionando
+2025-01-15 12:04:38funcionando
+2025-01-15 12:04:43funcionando
+2025-01-15 12:04:48funcionando
+2025-01-15 12:04:54funcionando
+2025-01-15 12:04:59funcionando
+2025-01-15 12:05:04funcionando
+2025-01-15 12:05:10funcionando
+2025-01-15 12:05:15funcionando
+2025-01-15 12:05:20funcionando
+2025-01-15 12:05:26funcionando
+2025-01-15 12:05:31funcionando
+2025-01-15 12:05:37funcionando
+2025-01-15 12:05:42funcionando
+2025-01-15 12:05:47funcionando
+2025-01-15 12:05:53funcionando
+2025-01-15 12:05:58funcionando
+2025-01-15 12:06:03funcionando
+2025-01-15 12:06:09funcionando
+2025-01-15 12:06:14funcionando
+2025-01-15 12:06:20funcionando
+2025-01-15 12:06:25funcionando
+2025-01-15 12:06:30funcionando
+2025-01-15 12:06:36funcionando
+2025-01-15 12:06:41funcionando
+2025-01-15 12:06:46funcionando
+2025-01-15 12:06:52funcionando
+2025-01-15 12:06:57funcionando
+2025-01-15 12:07:02funcionando
+2025-01-15 12:07:08funcionando
+2025-01-15 12:07:13funcionando
+2025-01-15 12:07:19funcionando
+2025-01-15 12:07:24funcionando
+2025-01-15 12:07:29funcionando
+2025-01-15 12:07:35funcionando
+2025-01-15 12:07:40funcionando
+2025-01-15 12:07:45funcionando
+2025-01-15 12:07:51funcionando
+2025-01-15 12:07:56funcionando
+2025-01-15 12:08:01funcionando
+2025-01-15 12:08:07funcionando
+2025-01-15 12:08:12funcionando
+2025-01-15 12:08:18funcionando
+2025-01-15 12:08:23funcionando
+2025-01-15 12:08:28funcionando
+2025-01-15 12:08:34funcionando
+2025-01-15 12:08:39funcionando
+2025-01-15 12:08:45funcionando
+2025-01-15 12:08:50funcionando
+2025-01-15 12:08:55funcionando
+2025-01-15 12:09:01funcionando
+2025-01-15 12:09:06funcionando
+2025-01-15 12:09:12funcionando
+2025-01-15 12:09:17funcionando
+2025-01-15 12:09:22funcionando
+2025-01-15 12:09:28funcionando
+2025-01-15 12:09:33funcionando
+2025-01-15 12:09:38funcionando
+2025-01-15 12:09:44funcionando
+2025-01-15 12:09:49funcionando
+2025-01-15 12:09:55funcionando
+2025-01-15 12:10:00funcionando
+2025-01-15 12:10:05funcionando
+2025-01-15 12:10:11funcionando
+2025-01-15 12:10:16funcionando
+2025-01-15 12:10:21funcionando
+2025-01-15 12:10:27funcionando
+2025-01-15 12:10:32funcionando
+2025-01-15 12:10:38funcionando
+2025-01-15 12:10:43funcionando
+2025-01-15 12:10:48funcionando
+2025-01-15 12:10:54funcionando
+2025-01-15 12:10:59funcionando
+2025-01-15 12:11:04funcionando
+2025-01-15 12:11:10funcionando
+2025-01-15 12:11:15funcionando
+2025-01-15 12:11:21funcionando
+2025-01-15 12:11:26funcionando
+2025-01-15 12:11:31funcionando
+2025-01-15 12:11:37funcionando
+2025-01-15 12:11:42funcionando
+2025-01-15 12:11:47funcionando
+2025-01-15 12:11:53funcionando
+2025-01-15 12:11:58funcionando
+2025-01-15 12:12:04funcionando
+2025-01-15 12:12:09funcionando
+2025-01-15 12:12:14funcionando
+2025-01-15 12:12:20funcionando
+2025-01-15 12:12:25funcionando
+2025-01-15 12:12:30funcionando
+2025-01-15 12:12:36funcionando
+2025-01-15 12:12:41funcionando
+2025-01-15 12:12:46funcionando
+2025-01-15 12:12:52funcionando
+2025-01-15 12:12:57funcionando
+2025-01-15 12:13:03funcionando
+2025-01-15 12:13:08funcionando
+2025-01-15 12:13:13funcionando
+2025-01-15 12:13:19funcionando
+2025-01-15 12:13:24funcionando
+2025-01-15 12:13:30funcionando
+2025-01-15 12:13:35funcionando
+2025-01-15 12:13:40funcionando
+2025-01-15 12:13:46funcionando
+2025-01-15 12:13:51funcionando
+2025-01-15 12:13:56funcionando
+2025-01-15 12:14:02funcionando
+2025-01-15 12:14:07funcionando
+2025-01-15 12:14:13funcionando
+2025-01-15 12:14:18funcionando
+2025-01-15 12:14:23funcionando
+2025-01-15 12:14:29funcionando
+2025-01-15 12:14:34funcionando
+2025-01-15 12:14:39funcionando
+2025-01-15 12:14:45funcionando
+2025-01-15 12:14:50funcionando
+2025-01-15 12:14:56funcionando
+2025-01-15 12:15:01funcionando
+2025-01-15 12:15:06funcionando
+2025-01-15 12:15:12funcionando
+2025-01-15 12:15:17funcionando
+2025-01-15 12:15:23funcionando
+2025-01-15 12:15:28funcionando
+2025-01-15 12:15:33funcionando
+2025-01-15 12:15:39funcionando
+2025-01-15 12:15:44funcionando
+2025-01-15 12:15:50funcionando
+2025-01-15 12:15:55funcionando
+2025-01-15 12:16:00funcionando
+2025-01-15 12:16:06funcionando
+2025-01-15 12:16:11funcionando
+2025-01-15 12:16:16funcionando
+2025-01-15 12:16:22funcionando
+2025-01-15 12:16:27funcionando
+2025-01-15 12:16:32funcionando
+2025-01-15 12:16:38funcionando
+2025-01-15 12:16:43funcionando
+2025-01-15 12:16:49funcionando
+2025-01-15 12:16:54funcionando
+2025-01-15 12:16:59funcionando
+2025-01-15 12:17:05funcionando
+2025-01-15 12:17:10funcionando
+2025-01-15 12:17:15funcionando
+2025-01-15 12:17:21funcionando
+2025-01-15 12:17:26funcionando
+2025-01-15 12:17:32funcionando
+2025-01-15 12:17:37funcionando
+2025-01-15 12:17:42funcionando
+2025-01-15 12:17:48funcionando
+2025-01-15 12:17:53funcionando
+2025-01-15 12:17:58funcionando
+2025-01-15 12:18:04funcionando
+2025-01-15 12:18:09funcionando
+2025-01-15 12:18:14funcionando
+2025-01-15 12:18:20funcionando
+2025-01-15 12:18:25funcionando
+2025-01-15 12:18:31funcionando
+2025-01-15 12:18:36funcionando
+2025-01-15 12:18:41funcionando
+2025-01-15 12:18:47funcionando
+2025-01-15 12:18:52funcionando
+2025-01-15 12:18:57funcionando
+2025-01-15 12:19:03funcionando
+2025-01-15 12:19:08funcionando
+2025-01-15 12:19:13funcionando
+2025-01-15 12:19:19funcionando
+2025-01-15 12:19:24funcionando
+2025-01-15 12:19:30funcionando
+2025-01-15 12:19:35funcionando
+2025-01-15 12:19:40funcionando
+2025-01-15 12:19:46funcionando
+2025-01-15 12:19:51funcionando
+2025-01-15 12:19:56funcionando
+2025-01-15 12:20:02funcionando
+2025-01-15 12:20:07funcionando
+2025-01-15 12:20:12funcionando
+2025-01-15 12:20:18funcionando
+2025-01-15 12:20:23funcionando
+2025-01-15 12:20:29funcionando
+2025-01-15 12:20:34funcionando
+2025-01-15 12:20:39funcionando
+2025-01-15 12:20:45funcionando
+2025-01-15 12:20:50funcionando
+2025-01-15 12:20:55funcionando
+2025-01-15 12:21:01funcionando
+2025-01-15 12:21:06funcionando
+2025-01-15 12:21:12funcionando
+2025-01-15 12:21:17funcionando
+2025-01-15 12:21:22funcionando
+2025-01-15 12:21:28funcionando
+2025-01-15 12:21:33funcionando
+2025-01-15 12:21:38funcionando
+2025-01-15 12:21:44funcionando
+2025-01-15 12:21:49funcionando
+2025-01-15 12:21:55funcionando
+2025-01-15 12:22:00funcionando
+2025-01-15 12:22:05funcionando
+2025-01-15 12:22:11funcionando
+2025-01-15 12:22:16funcionando
+2025-01-15 12:22:21funcionando
+2025-01-15 12:22:27funcionando
+2025-01-15 12:22:32funcionando
+2025-01-15 12:22:38não funcionando
+2025-01-15 12:22:43não funcionando
+2025-01-15 12:22:48não funcionando
+2025-01-15 12:22:54não funcionando
+2025-01-15 12:22:59não funcionando
+2025-01-15 12:23:04não funcionando
+2025-01-15 12:23:10não funcionando
+2025-01-15 12:23:15não funcionando
+2025-01-15 12:23:21não funcionando
+2025-01-15 12:23:26não funcionando
+2025-01-15 12:23:31não funcionando
+2025-01-15 12:23:37não funcionando
+2025-01-15 12:23:42não funcionando
+2025-01-15 12:23:47não funcionando
+2025-01-15 12:23:53não funcionando
+2025-01-15 12:23:58não funcionando
+2025-01-15 12:24:03não funcionando
+2025-01-15 12:24:09não funcionando
+2025-01-15 12:24:14não funcionando
+2025-01-15 12:24:20não funcionando
+2025-01-15 12:24:25não funcionando
+2025-01-15 12:24:30não funcionando
+2025-01-15 12:24:36não funcionando
+2025-01-15 12:24:41não funcionando
+2025-01-15 12:24:46não funcionando
+2025-01-15 12:24:52não funcionando
+2025-01-15 12:24:57não funcionando
+2025-01-15 12:25:02não funcionando
+2025-01-15 12:25:08não funcionando
+2025-01-15 12:25:13não funcionando
+2025-01-15 12:25:19não funcionando
+2025-01-15 12:25:24não funcionando
+2025-01-15 12:25:29não funcionando
+2025-01-15 12:25:35não funcionando
+2025-01-15 12:25:40não funcionando
+2025-01-15 12:25:45não funcionando
+2025-01-15 12:25:51não funcionando
+2025-01-15 12:25:56não funcionando
+2025-01-15 12:26:01não funcionando
+2025-01-15 12:26:07não funcionando
+2025-01-15 12:26:12não funcionando
+2025-01-15 12:26:17não funcionando
+2025-01-15 12:26:23não funcionando
+2025-01-15 12:26:28não funcionando
+2025-01-15 12:26:34não funcionando
+2025-01-15 12:26:39não funcionando
+2025-01-15 12:26:44não funcionando
+2025-01-15 12:26:50não funcionando
+2025-01-15 12:26:55não funcionando
+2025-01-15 12:27:01não funcionando
+2025-01-15 12:27:06não funcionando
+2025-01-15 12:27:11não funcionando
+2025-01-15 12:27:17não funcionando
+2025-01-15 12:27:22não funcionando
+2025-01-15 12:27:27não funcionando
+2025-01-15 12:27:33não funcionando
+2025-01-15 12:27:38não funcionando
+2025-01-15 12:27:43não funcionando
+2025-01-15 12:27:49não funcionando
+2025-01-15 12:27:54não funcionando
+2025-01-15 12:27:59não funcionando
+2025-01-15 12:28:05não funcionando
+2025-01-15 12:28:10não funcionando
+2025-01-15 12:28:16não funcionando
+2025-01-15 12:28:21não funcionando
+2025-01-15 12:28:26não funcionando
+2025-01-15 12:28:32não funcionando
+2025-01-15 12:28:37não funcionando
+2025-01-15 12:28:42não funcionando
+2025-01-15 12:28:48não funcionando
+2025-01-15 12:28:53não funcionando
+2025-01-15 12:28:58não funcionando
+2025-01-15 12:29:04não funcionando
+2025-01-15 12:29:09não funcionando
+2025-01-15 12:29:15não funcionando
+2025-01-15 12:29:20não funcionando
+2025-01-15 12:29:25não funcionando
+2025-01-15 12:29:31não funcionando
+2025-01-15 12:29:36não funcionando
+2025-01-15 12:29:41não funcionando
+2025-01-15 12:29:47não funcionando
+2025-01-15 12:29:52não funcionando
+2025-01-15 12:29:57não funcionando
+2025-01-15 12:30:03não funcionando
+2025-01-15 12:30:08não funcionando
+2025-01-15 12:30:13não funcionando
+2025-01-15 12:30:19não funcionando
+2025-01-15 12:30:24não funcionando
+2025-01-15 12:30:29não funcionando
+2025-01-15 12:30:35não funcionando
+2025-01-15 12:30:40não funcionando
+2025-01-15 12:30:46não funcionando
+2025-01-15 12:30:51não funcionando
+2025-01-15 12:30:56não funcionando
+2025-01-15 12:31:02não funcionando
+2025-01-15 12:31:07não funcionando
+2025-01-15 12:31:12não funcionando
+2025-01-15 12:31:18não funcionando
+2025-01-15 12:31:23não funcionando
+2025-01-15 12:31:28não funcionando
+2025-01-15 12:31:34não funcionando
+2025-01-15 12:31:39não funcionando
+2025-01-15 12:31:45não funcionando
+2025-01-15 12:31:50não funcionando
+2025-01-15 12:31:55não funcionando
+2025-01-15 12:32:01não funcionando
+2025-01-15 12:32:06não funcionando
+2025-01-15 12:32:11não funcionando
+2025-01-15 12:32:17não funcionando
+2025-01-15 12:32:22não funcionando
+2025-01-15 12:32:27não funcionando
+2025-01-15 12:32:33não funcionando
+2025-01-15 12:32:38não funcionando
+2025-01-15 12:32:43não funcionando
+2025-01-15 12:32:49não funcionando
+2025-01-15 12:32:54não funcionando
+2025-01-15 12:32:59não funcionando
+2025-01-15 12:33:05não funcionando
+2025-01-15 12:33:10não funcionando
+2025-01-15 12:33:15não funcionando
+2025-01-15 12:33:21não funcionando
+2025-01-15 12:33:26não funcionando
+2025-01-15 12:33:32não funcionando
+2025-01-15 12:33:37não funcionando
+2025-01-15 12:33:42não funcionando
+2025-01-15 12:33:48não funcionando
+2025-01-15 12:33:53não funcionando
+2025-01-15 12:33:58não funcionando
+2025-01-15 12:34:04não funcionando
+2025-01-15 12:34:09não funcionando
+2025-01-15 12:34:14não funcionando
+2025-01-15 12:34:20não funcionando
+2025-01-15 12:34:25não funcionando
+2025-01-15 12:34:30não funcionando
+2025-01-15 12:34:36não funcionando
+2025-01-15 12:34:41não funcionando
+2025-01-15 12:34:46não funcionando
+2025-01-15 12:34:52não funcionando
+2025-01-15 12:34:57não funcionando
+2025-01-15 12:35:03não funcionando
+2025-01-15 12:35:08não funcionando
+2025-01-15 12:35:13não funcionando
+2025-01-15 12:35:19não funcionando
+2025-01-15 12:35:24não funcionando
+2025-01-15 12:35:29não funcionando
+2025-01-15 12:35:35não funcionando
+2025-01-15 12:35:40não funcionando
+2025-01-15 12:35:45não funcionando
+2025-01-15 12:35:51não funcionando
+2025-01-15 12:35:56não funcionando
+2025-01-15 12:36:02não funcionando
+2025-01-15 12:36:07não funcionando
+2025-01-15 12:36:12não funcionando
+2025-01-15 12:36:18não funcionando
+2025-01-15 12:36:23não funcionando
+2025-01-15 12:36:28não funcionando
+2025-01-15 12:36:34não funcionando
+2025-01-15 12:36:39não funcionando
+2025-01-15 12:36:44não funcionando
+2025-01-15 12:36:50não funcionando
+2025-01-15 12:36:55não funcionando
+2025-01-15 12:37:00não funcionando
+2025-01-15 12:37:06não funcionando
+2025-01-15 12:37:11não funcionando
+2025-01-15 12:37:16não funcionando
+2025-01-15 12:37:22não funcionando
+2025-01-15 12:37:27não funcionando
+2025-01-15 12:37:33não funcionando
+2025-01-15 12:37:38não funcionando
+2025-01-15 12:37:43não funcionando
+2025-01-15 12:37:49não funcionando
+2025-01-15 12:37:54não funcionando
+2025-01-15 12:37:59não funcionando
+2025-01-15 12:38:05não funcionando
+2025-01-15 12:38:10não funcionando
+2025-01-15 12:38:15não funcionando
+2025-01-15 12:38:21não funcionando
+2025-01-15 12:38:26não funcionando
+2025-01-15 12:38:31não funcionando
+2025-01-15 12:38:37não funcionando
+2025-01-15 12:38:42não funcionando
+2025-01-15 12:38:47não funcionando
+2025-01-15 12:38:53não funcionando
+2025-01-15 12:38:58não funcionando
+2025-01-15 12:39:03não funcionando
+2025-01-15 12:39:09não funcionando
+2025-01-15 12:39:14não funcionando
+2025-01-15 12:39:19não funcionando
+2025-01-15 12:39:25não funcionando
+2025-01-15 12:39:30não funcionando
+2025-01-15 12:39:35não funcionando
+2025-01-15 12:39:41não funcionando
+2025-01-15 12:39:46não funcionando
+2025-01-15 12:39:52não funcionando
+2025-01-15 12:39:57não funcionando
+2025-01-15 12:40:02não funcionando
+2025-01-15 12:40:08não funcionando
+2025-01-15 12:40:13não funcionando
+2025-01-15 12:40:18não funcionando
+2025-01-15 12:40:24não funcionando
+2025-01-15 12:40:29não funcionando
+2025-01-15 12:40:34não funcionando
+2025-01-15 12:40:40não funcionando
+2025-01-15 12:40:45não funcionando
+2025-01-15 12:40:50não funcionando
+2025-01-15 12:40:56não funcionando
+2025-01-15 12:41:01não funcionando
+2025-01-15 12:41:06não funcionando
+2025-01-15 12:41:12não funcionando
+2025-01-15 12:41:17não funcionando
+2025-01-15 12:41:23não funcionando
+2025-01-15 12:41:28não funcionando
+2025-01-15 12:41:33não funcionando
+2025-01-15 12:41:39não funcionando
+2025-01-15 12:41:44não funcionando
+2025-01-15 12:41:49não funcionando
+2025-01-15 12:41:55não funcionando
+2025-01-15 12:42:00não funcionando
+2025-01-15 12:42:05não funcionando
+2025-01-15 12:42:11não funcionando
+2025-01-15 12:42:16não funcionando
+2025-01-15 12:42:21não funcionando
+2025-01-15 12:42:27não funcionando
+2025-01-15 12:42:32não funcionando
+2025-01-15 12:42:37não funcionando
+2025-01-15 12:42:43não funcionando
+2025-01-15 12:42:48não funcionando
+2025-01-15 12:42:54não funcionando
+2025-01-15 12:42:59não funcionando
+2025-01-15 12:43:04não funcionando
+2025-01-15 12:43:10não funcionando
+2025-01-15 12:43:15não funcionando
+2025-01-15 12:43:20não funcionando
+2025-01-15 12:43:26não funcionando
+2025-01-15 12:43:31não funcionando
+2025-01-15 12:43:36não funcionando
+2025-01-15 12:43:42não funcionando
+2025-01-15 12:43:47não funcionando
+2025-01-15 12:43:52não funcionando
+2025-01-15 12:43:58não funcionando
+2025-01-15 12:44:03não funcionando
+2025-01-15 12:44:08não funcionando
+2025-01-15 12:44:14não funcionando
+2025-01-15 12:44:19não funcionando
+2025-01-15 12:44:25não funcionando
+2025-01-15 12:44:30não funcionando
+2025-01-15 12:44:35não funcionando
+2025-01-15 12:44:41não funcionando
+2025-01-15 12:44:46não funcionando
+2025-01-15 12:44:51não funcionando
+2025-01-15 12:44:57não funcionando
+2025-01-15 12:45:02não funcionando
+2025-01-15 12:45:07não funcionando
+2025-01-15 12:45:13não funcionando
+2025-01-15 12:45:18não funcionando
+2025-01-15 12:45:23não funcionando
+2025-01-15 12:45:29não funcionando
+2025-01-15 12:45:34não funcionando
+2025-01-15 12:45:40não funcionando
+2025-01-15 12:45:45não funcionando
+2025-01-15 12:45:50não funcionando
+2025-01-15 12:45:56não funcionando
+2025-01-15 12:46:01não funcionando
+2025-01-15 12:46:06não funcionando
+2025-01-15 12:46:12não funcionando
+2025-01-15 12:46:17não funcionando
+2025-01-15 12:46:22não funcionando
+2025-01-15 12:46:28não funcionando
+2025-01-15 12:46:33não funcionando
+2025-01-15 12:46:38não funcionando
+2025-01-15 12:46:44não funcionando
+2025-01-15 12:46:49não funcionando
+2025-01-15 12:46:54funcionando
+2025-01-15 12:47:00funcionando
+2025-01-15 12:47:05funcionando
+2025-01-15 12:47:11funcionando
+2025-01-15 12:47:16funcionando
+2025-01-15 12:47:21funcionando
+2025-01-15 12:47:27funcionando
+2025-01-15 12:47:32funcionando
+2025-01-15 12:47:37funcionando
+2025-01-15 12:47:43funcionando
+2025-01-15 12:47:48funcionando
+2025-01-15 12:47:53funcionando
+2025-01-15 12:47:59funcionando
+2025-01-15 12:48:04funcionando
+2025-01-15 12:48:10funcionando
+2025-01-15 12:48:15funcionando
+2025-01-15 12:48:20funcionando
+2025-01-15 12:48:26funcionando
+2025-01-15 12:48:31funcionando
+2025-01-15 12:48:36funcionando
+2025-01-15 12:48:42funcionando
+2025-01-15 12:48:47funcionando
+2025-01-15 12:48:52funcionando
+2025-01-15 12:48:58funcionando
+2025-01-15 12:49:03funcionando
+2025-01-15 12:49:09funcionando
+2025-01-15 12:49:14funcionando
+2025-01-15 12:49:19funcionando
+2025-01-15 12:49:25funcionando
+2025-01-15 12:49:30funcionando
+2025-01-15 12:49:35funcionando
+2025-01-15 12:49:41funcionando
+2025-01-15 12:49:46funcionando
+2025-01-15 12:49:52funcionando
+2025-01-15 12:49:57funcionando
+2025-01-15 12:50:02funcionando
+2025-01-15 12:50:08funcionando
+2025-01-15 12:50:13funcionando
+2025-01-15 12:50:18funcionando
+2025-01-15 12:50:24funcionando
+2025-01-15 12:50:29funcionando
+2025-01-15 12:50:34funcionando
+2025-01-15 12:50:40funcionando
+2025-01-15 12:50:45funcionando
+2025-01-15 12:50:51funcionando
+2025-01-15 12:50:56funcionando
+2025-01-15 12:51:01funcionando
+2025-01-15 12:51:07funcionando
+2025-01-15 12:51:12funcionando
+2025-01-15 12:51:18funcionando
+2025-01-15 12:51:23funcionando
+2025-01-15 12:51:28funcionando
+2025-01-15 12:51:34funcionando
+2025-01-15 12:51:39funcionando
+2025-01-15 12:51:45funcionando
+2025-01-15 12:51:50funcionando
+2025-01-15 12:51:55funcionando
+2025-01-15 12:52:00funcionando
+2025-01-15 12:52:06funcionando
+2025-01-15 12:52:11funcionando
+2025-01-15 12:52:17funcionando
+2025-01-15 12:52:22funcionando
+2025-01-15 12:52:27funcionando
+2025-01-15 12:52:33funcionando
+2025-01-15 12:52:38funcionando
+2025-01-15 12:52:43funcionando
+2025-01-15 12:52:49funcionando
+2025-01-15 12:52:54funcionando
+2025-01-15 12:52:59funcionando
+2025-01-15 12:53:05funcionando
+2025-01-15 12:53:10funcionando
+2025-01-15 12:53:15funcionando
+2025-01-15 12:53:21funcionando
+2025-01-15 12:53:26funcionando
+2025-01-15 12:53:32funcionando
+2025-01-15 12:53:37funcionando
+2025-01-15 12:53:43funcionando
+2025-01-15 12:53:48funcionando
+2025-01-15 12:53:54funcionando
+2025-01-15 12:54:00funcionando
+2025-01-15 12:54:06funcionando
+2025-01-15 12:54:11funcionando
+2025-01-15 12:54:17funcionando
+2025-01-15 12:54:23funcionando
+2025-01-15 12:54:29funcionando
+2025-01-15 12:54:34funcionando
+2025-01-15 12:54:40funcionando
+2025-01-15 12:54:45funcionando
+2025-01-15 12:54:51funcionando
+2025-01-15 12:54:57funcionando
+2025-01-15 12:55:02funcionando
+2025-01-15 12:55:08funcionando
+2025-01-15 12:55:13funcionando
+2025-01-15 12:55:19funcionando
+2025-01-15 12:55:24funcionando
+2025-01-15 12:55:29funcionando
+2025-01-15 12:55:35funcionando
+2025-01-15 12:55:40funcionando
+2025-01-15 12:55:46funcionando
+2025-01-15 12:55:51funcionando
+2025-01-15 12:55:56funcionando
+2025-01-15 12:56:02funcionando
+2025-01-15 12:56:07funcionando
+2025-01-15 12:56:13funcionando
+2025-01-15 12:56:18funcionando
+2025-01-15 12:56:24funcionando
+2025-01-15 12:56:29funcionando
+2025-01-15 12:56:34funcionando
+2025-01-15 12:56:40funcionando
+2025-01-15 12:56:45funcionando
+2025-01-15 12:56:51funcionando
+2025-01-15 12:56:56funcionando
+2025-01-15 12:57:02funcionando
+2025-01-15 12:57:07funcionando
+2025-01-15 12:57:13funcionando
+2025-01-15 12:57:18funcionando
+2025-01-15 12:57:24funcionando
+2025-01-15 12:57:29funcionando
+2025-01-15 12:57:35funcionando
+2025-01-15 12:57:40funcionando
+2025-01-15 12:57:45funcionando
+2025-01-15 12:57:51funcionando
+2025-01-15 12:57:56funcionando
+2025-01-15 12:58:02funcionando
+2025-01-15 12:58:07funcionando
+2025-01-15 12:58:13funcionando
+2025-01-15 12:58:18funcionando
+2025-01-15 12:58:23funcionando
+2025-01-15 12:58:29funcionando
+2025-01-15 12:58:34funcionando
+2025-01-15 12:58:40funcionando
+2025-01-15 12:58:45funcionando
+2025-01-15 12:58:51funcionando
+2025-01-15 12:58:56funcionando
+2025-01-15 12:59:02funcionando
+2025-01-15 12:59:07funcionando
+2025-01-15 12:59:13funcionando
+2025-01-15 12:59:19funcionando
+2025-01-15 12:59:24funcionando
+2025-01-15 12:59:30funcionando
+2025-01-15 12:59:35funcionando
+2025-01-15 12:59:41funcionando
+2025-01-15 12:59:46funcionando
+2025-01-15 12:59:52funcionando
+2025-01-15 12:59:57funcionando
+2025-01-15 13:00:03funcionando
+2025-01-15 13:00:08funcionando
+2025-01-15 13:00:14funcionando
+2025-01-15 13:00:20funcionando
+2025-01-15 13:00:25funcionando
+2025-01-15 13:00:31funcionando
+2025-01-15 13:00:36funcionando
+2025-01-15 13:00:42funcionando
+2025-01-15 13:00:47funcionando
+2025-01-15 13:00:53funcionando
+2025-01-15 13:00:59funcionando
+2025-01-15 13:01:04funcionando
+2025-01-15 13:01:10funcionando
+2025-01-15 13:01:15funcionando
+2025-01-15 13:01:21funcionando
+2025-01-15 13:01:26funcionando
+2025-01-15 13:01:32funcionando
+2025-01-15 13:01:37funcionando
+2025-01-15 13:01:43funcionando
+2025-01-15 13:01:48funcionando
+2025-01-15 13:01:54funcionando
+2025-01-15 13:02:00funcionando
+2025-01-15 13:02:05funcionando
+2025-01-15 13:02:11funcionando
+2025-01-15 13:02:16funcionando
+2025-01-15 13:02:22funcionando
+2025-01-15 13:02:28funcionando
+2025-01-15 13:02:34funcionando
+2025-01-15 13:02:39funcionando
+2025-01-15 13:02:45funcionando
+2025-01-15 13:02:51funcionando
+2025-01-15 13:02:56funcionando
+2025-01-15 13:03:02funcionando
+2025-01-15 13:03:07funcionando
+2025-01-15 13:03:12funcionando
+2025-01-15 13:03:18funcionando
+2025-01-15 13:03:23funcionando
+2025-01-15 13:03:29funcionando
+2025-01-15 13:03:34funcionando
+2025-01-15 13:03:40funcionando
+2025-01-15 13:03:45funcionando
+2025-01-15 13:03:51funcionando
+2025-01-15 13:03:56funcionando
+2025-01-15 13:04:02funcionando
+2025-01-15 13:04:07funcionando
+2025-01-15 13:04:13funcionando
+2025-01-15 13:04:18funcionando
+2025-01-15 13:04:23funcionando
+2025-01-15 13:04:29funcionando
+2025-01-15 13:04:34funcionando
+2025-01-15 13:04:40funcionando
+2025-01-15 13:04:45funcionando
+2025-01-15 13:04:51funcionando
+2025-01-15 13:04:56funcionando
+2025-01-15 13:05:02funcionando
+2025-01-15 13:05:07funcionando
+2025-01-15 13:05:13funcionando
+2025-01-15 13:05:18funcionando
+2025-01-15 13:05:24funcionando
+2025-01-15 13:05:29funcionando
+2025-01-15 13:05:35funcionando
+2025-01-15 13:05:40funcionando
+2025-01-15 13:05:46funcionando
+2025-01-15 13:05:51funcionando
+2025-01-15 13:05:57funcionando
+2025-01-15 13:06:02funcionando
+2025-01-15 13:06:07funcionando
+2025-01-15 13:06:13funcionando
+2025-01-15 13:06:18funcionando
+2025-01-15 13:06:24funcionando
+2025-01-15 13:06:29funcionando
+2025-01-15 13:06:35funcionando
+2025-01-15 13:06:40funcionando
+2025-01-15 13:06:45funcionando
+2025-01-15 13:06:51funcionando
+2025-01-15 13:06:56funcionando
+2025-01-15 13:07:01funcionando
+2025-01-15 13:07:07funcionando
+2025-01-15 13:07:12funcionando
+2025-01-15 13:07:18funcionando
+2025-01-15 13:07:23funcionando
+2025-01-15 13:07:28funcionando
+2025-01-15 13:07:34funcionando
+2025-01-15 13:07:39funcionando
+2025-01-15 13:07:44funcionando
+2025-01-15 13:07:50funcionando
+2025-01-15 13:07:55funcionando
+2025-01-15 13:08:00funcionando
+2025-01-15 13:08:06funcionando
+2025-01-15 13:08:11funcionando
+2025-01-15 13:08:16funcionando
+2025-01-15 13:08:22funcionando
+2025-01-15 13:08:27funcionando
+2025-01-15 13:08:32funcionando
+2025-01-15 13:08:38funcionando
+2025-01-15 13:08:43funcionando
+2025-01-15 13:08:48funcionando
+2025-01-15 13:08:54funcionando
+2025-01-15 13:08:59funcionando
+2025-01-15 13:09:04funcionando
+2025-01-15 13:09:10funcionando
+2025-01-15 13:09:15funcionando
+2025-01-15 13:09:21funcionando
+2025-01-15 13:09:26funcionando
+2025-01-15 13:09:31funcionando
+2025-01-15 13:09:37funcionando
+2025-01-15 13:09:42funcionando
+2025-01-15 13:09:47funcionando
+2025-01-15 13:09:53funcionando
+2025-01-15 13:09:58funcionando
+2025-01-15 13:10:03funcionando
+2025-01-15 13:10:09funcionando
+2025-01-15 13:10:14funcionando
+2025-01-15 13:10:19funcionando
+2025-01-15 13:10:25funcionando
+2025-01-15 13:10:30funcionando
+2025-01-15 13:10:36funcionando
+2025-01-15 13:10:41não funcionando
+2025-01-15 13:10:46não funcionando
+2025-01-15 13:10:52não funcionando
+2025-01-15 13:10:57não funcionando
+2025-01-15 13:11:02não funcionando
+2025-01-15 13:11:08não funcionando
+2025-01-15 13:11:13não funcionando
+2025-01-15 13:11:18não funcionando
+2025-01-15 13:11:24não funcionando
+2025-01-15 13:11:29não funcionando
+2025-01-15 13:11:34não funcionando
+2025-01-15 13:11:40não funcionando
+2025-01-15 13:11:45não funcionando
+2025-01-15 13:11:50não funcionando
+2025-01-15 13:11:56não funcionando
+2025-01-15 13:12:01não funcionando
+2025-01-15 13:12:07não funcionando
+2025-01-15 13:12:12não funcionando
+2025-01-15 13:12:17não funcionando
+2025-01-15 13:12:23não funcionando
+2025-01-15 13:12:28não funcionando
+2025-01-15 13:12:33não funcionando
+2025-01-15 13:12:39não funcionando
+2025-01-15 13:12:44não funcionando
+2025-01-15 13:12:49não funcionando
+2025-01-15 13:12:55não funcionando
+2025-01-15 13:13:00não funcionando
+2025-01-15 13:13:05não funcionando
+2025-01-15 13:13:11não funcionando
+2025-01-15 13:13:16não funcionando
+2025-01-15 13:13:21não funcionando
+2025-01-15 13:13:27não funcionando
+2025-01-15 13:13:32não funcionando
+2025-01-15 13:13:37não funcionando
+2025-01-15 13:13:43não funcionando
+2025-01-15 13:13:48não funcionando
+2025-01-15 13:13:53não funcionando
+2025-01-15 13:13:59não funcionando
+2025-01-15 13:14:04não funcionando
+2025-01-15 13:14:09não funcionando
+2025-01-15 13:14:15não funcionando
+2025-01-15 13:14:20não funcionando
+2025-01-15 13:14:25não funcionando
+2025-01-15 13:14:31não funcionando
+2025-01-15 13:14:36não funcionando
+2025-01-15 13:14:41não funcionando
+2025-01-15 13:14:47não funcionando
+2025-01-15 13:14:52não funcionando
+2025-01-15 13:14:58não funcionando
+2025-01-15 13:15:03não funcionando
+2025-01-15 13:15:08não funcionando
+2025-01-15 13:15:14não funcionando
+2025-01-15 13:15:19não funcionando
+2025-01-15 13:15:24não funcionando
+2025-01-15 13:15:30não funcionando
+2025-01-15 13:15:35não funcionando
+2025-01-15 13:15:40não funcionando
+2025-01-15 13:15:46não funcionando
+2025-01-15 13:15:51não funcionando
+2025-01-15 13:15:56não funcionando
+2025-01-15 13:16:02não funcionando
+2025-01-15 13:16:07não funcionando
+2025-01-15 13:16:12não funcionando
+2025-01-15 13:16:18não funcionando
+2025-01-15 13:16:23não funcionando
+2025-01-15 13:16:28não funcionando
+2025-01-15 13:16:34não funcionando
+2025-01-15 13:16:39não funcionando
+2025-01-15 13:16:45não funcionando
+2025-01-15 13:16:50não funcionando
+2025-01-15 13:16:55não funcionando
+2025-01-15 13:17:01não funcionando
+2025-01-15 13:17:06não funcionando
+2025-01-15 13:17:11não funcionando
+2025-01-15 13:17:17não funcionando
+2025-01-15 13:17:22não funcionando
+2025-01-15 13:17:27não funcionando
+2025-01-15 13:17:33não funcionando
+2025-01-15 13:17:38não funcionando
+2025-01-15 13:17:43não funcionando
+2025-01-15 13:17:49não funcionando
+2025-01-15 13:17:54não funcionando
+2025-01-15 13:18:00não funcionando
+2025-01-15 13:18:06não funcionando
+2025-01-15 13:30:05não funcionando
+2025-01-15 13:30:10não funcionando
+2025-01-15 13:30:15não funcionando
+2025-01-15 13:30:21não funcionando
+2025-01-15 13:30:26não funcionando
+2025-01-15 13:30:32não funcionando
+2025-01-15 13:30:37não funcionando
+2025-01-15 13:30:42não funcionando
+2025-01-15 13:30:48não funcionando
+2025-01-15 13:30:53não funcionando
+2025-01-15 13:30:58não funcionando
+2025-01-15 13:31:04não funcionando
+2025-01-15 13:31:09não funcionando
+2025-01-15 13:31:14não funcionando
+2025-01-15 13:31:20não funcionando
+2025-01-15 13:31:25não funcionando
+2025-01-15 13:31:30não funcionando
+2025-01-15 13:31:36não funcionando
+2025-01-15 13:31:41não funcionando
+2025-01-15 13:31:46não funcionando
+2025-01-15 13:31:52não funcionando
+2025-01-15 13:31:57não funcionando
+2025-01-15 13:32:03não funcionando
+2025-01-15 13:32:08não funcionando
+2025-01-15 13:32:13não funcionando
+2025-01-15 13:32:19não funcionando
+2025-01-15 13:32:24não funcionando
+2025-01-15 13:32:29não funcionando
+2025-01-15 13:32:35não funcionando
+2025-01-15 13:32:40não funcionando
+2025-01-15 13:32:46não funcionando
+2025-01-15 13:32:51não funcionando
+2025-01-15 13:32:56não funcionando
+2025-01-15 13:33:02não funcionando
+2025-01-15 13:33:07não funcionando
+2025-01-15 13:33:12não funcionando
+2025-01-15 13:33:18não funcionando
+2025-01-15 13:33:23não funcionando
+2025-01-15 13:33:28não funcionando
+2025-01-15 13:33:34não funcionando
+2025-01-15 13:33:39não funcionando
+2025-01-15 13:33:44não funcionando
+2025-01-15 13:33:50não funcionando
+2025-01-15 13:33:55não funcionando
+2025-01-15 13:34:00não funcionando
+2025-01-15 13:34:06não funcionando
+2025-01-15 13:34:11não funcionando
+2025-01-15 13:34:16não funcionando
+2025-01-15 13:34:22não funcionando
+2025-01-15 13:34:27não funcionando
+2025-01-15 13:34:32não funcionando
+2025-01-15 13:34:38não funcionando
+2025-01-15 13:34:43não funcionando
+2025-01-15 13:34:48não funcionando
+2025-01-15 13:34:54não funcionando
+2025-01-15 13:34:59não funcionando
+2025-01-15 13:35:04não funcionando
+2025-01-15 13:35:10não funcionando
+2025-01-15 13:35:15não funcionando
+2025-01-15 13:35:21não funcionando
+2025-01-15 13:35:26não funcionando
+2025-01-15 13:35:31não funcionando
+2025-01-15 13:35:37não funcionando
+2025-01-15 13:35:42não funcionando
+2025-01-15 13:35:47não funcionando
+2025-01-15 13:35:53não funcionando
+2025-01-15 13:35:58não funcionando
+2025-01-15 13:36:03não funcionando
+2025-01-15 13:36:09não funcionando
+2025-01-15 13:36:14não funcionando
+2025-01-15 13:36:19não funcionando
+2025-01-15 13:36:25não funcionando
+2025-01-15 13:36:30não funcionando
+2025-01-15 13:36:35não funcionando
+2025-01-15 13:36:41não funcionando
+2025-01-15 13:36:46não funcionando
+2025-01-15 13:36:51não funcionando
+2025-01-15 13:36:57não funcionando
+2025-01-15 13:37:02não funcionando
+2025-01-15 13:37:07não funcionando
+2025-01-15 13:37:13não funcionando
+2025-01-15 13:37:18não funcionando
+2025-01-15 13:37:24não funcionando
+2025-01-15 13:37:29não funcionando
+2025-01-15 13:37:34não funcionando
+2025-01-15 13:37:40não funcionando
+2025-01-15 13:37:45não funcionando
+2025-01-15 13:37:50não funcionando
+2025-01-15 13:37:56não funcionando
+2025-01-15 13:38:01não funcionando
+2025-01-15 13:38:06não funcionando
+2025-01-15 13:38:12não funcionando
+2025-01-15 13:38:17não funcionando
+2025-01-15 13:38:22não funcionando
+2025-01-15 13:38:28não funcionando
+2025-01-15 13:38:33não funcionando
+2025-01-15 13:38:39não funcionando
+2025-01-15 13:38:44não funcionando
+2025-01-15 13:38:49não funcionando
+2025-01-15 13:38:55não funcionando
+2025-01-15 13:39:00não funcionando
+2025-01-15 13:39:05não funcionando
+2025-01-15 13:39:11não funcionando
+2025-01-15 13:39:16não funcionando
+2025-01-15 13:39:22não funcionando
+2025-01-15 13:39:27não funcionando
+2025-01-15 13:39:32não funcionando
+2025-01-15 13:39:38não funcionando
+2025-01-15 13:39:43não funcionando
+2025-01-15 13:39:48não funcionando
+2025-01-15 13:39:54não funcionando
+2025-01-15 13:39:59não funcionando
+2025-01-15 13:40:04não funcionando
+2025-01-15 13:40:10não funcionando
+2025-01-15 13:40:15não funcionando
+2025-01-15 13:40:21não funcionando
+2025-01-15 13:40:26não funcionando
+2025-01-15 13:40:31não funcionando
+2025-01-15 13:40:37não funcionando
+2025-01-15 13:40:42não funcionando
+2025-01-15 13:40:47não funcionando
+2025-01-15 13:40:53não funcionando
+2025-01-15 13:40:58não funcionando
+2025-01-15 13:41:03não funcionando
+2025-01-15 13:41:09não funcionando
+2025-01-15 13:41:14não funcionando
+2025-01-15 13:41:20não funcionando
+2025-01-15 13:41:25não funcionando
+2025-01-15 13:41:30não funcionando
+2025-01-15 13:41:36não funcionando
+2025-01-15 13:41:41não funcionando
+2025-01-15 13:41:47não funcionando
+2025-01-15 13:41:52não funcionando
+2025-01-15 13:41:57não funcionando
+2025-01-15 13:42:03não funcionando
+2025-01-15 13:42:08não funcionando
+2025-01-15 13:42:14funcionando
+2025-01-15 13:42:19funcionando
+2025-01-15 13:42:24funcionando
+2025-01-15 13:42:30funcionando
+2025-01-15 13:42:35funcionando
+2025-01-15 13:42:41funcionando
+2025-01-15 13:42:46funcionando
+2025-01-15 13:42:51funcionando
+2025-01-15 13:42:57funcionando
+2025-01-15 13:43:02funcionando
+2025-01-15 13:43:08funcionando
+2025-01-15 13:43:13funcionando
+2025-01-15 13:43:18funcionando
+2025-01-15 13:43:24funcionando
+2025-01-15 13:43:29funcionando
+2025-01-15 13:43:35funcionando
+2025-01-15 13:43:40funcionando
+2025-01-15 13:43:45funcionando
+2025-01-15 13:43:51funcionando
+2025-01-15 13:43:56funcionando
+2025-01-15 13:44:02funcionando
+2025-01-15 13:44:07funcionando
+2025-01-15 13:44:13funcionando
+2025-01-15 13:54:10não funcionando
+2025-01-15 13:54:16não funcionando
+2025-01-15 13:54:21não funcionando
+2025-01-15 13:54:27não funcionando
+2025-01-15 13:54:32não funcionando
+2025-01-15 13:54:37não funcionando
+2025-01-15 13:54:43não funcionando
+2025-01-15 13:54:48não funcionando
+2025-01-15 13:54:53não funcionando
+2025-01-15 13:54:59não funcionando
+2025-01-15 13:55:04não funcionando
+2025-01-15 13:55:09não funcionando
+2025-01-15 13:55:15não funcionando
+2025-01-15 13:55:20não funcionando
+2025-01-15 13:55:25não funcionando
+2025-01-15 13:55:31não funcionando
+2025-01-15 13:55:36não funcionando
+2025-01-15 13:55:42não funcionando
+2025-01-15 13:55:47não funcionando
+2025-01-15 13:55:53não funcionando
+2025-01-15 13:55:58não funcionando
+2025-01-15 13:56:03não funcionando
+2025-01-15 13:56:09não funcionando
+2025-01-15 13:56:14não funcionando
+2025-01-15 13:56:20não funcionando
+2025-01-15 13:56:25não funcionando
+2025-01-15 13:56:31não funcionando
+2025-01-15 13:56:36não funcionando
+2025-01-15 13:56:41não funcionando
+2025-01-15 13:56:47não funcionando
+2025-01-15 13:56:52não funcionando
+2025-01-15 13:56:57não funcionando
+2025-01-15 13:57:03não funcionando
+2025-01-15 13:57:08não funcionando
+2025-01-15 13:57:14não funcionando
+2025-01-15 13:57:19não funcionando
+2025-01-15 13:57:25não funcionando
+2025-01-15 13:57:30não funcionando
+2025-01-15 13:57:35não funcionando
+2025-01-15 13:57:41não funcionando
+2025-01-15 13:57:46não funcionando
+2025-01-15 13:57:51não funcionando
+2025-01-15 13:57:57não funcionando
+2025-01-15 13:58:02não funcionando
+2025-01-15 13:58:07não funcionando
+2025-01-15 13:58:13não funcionando
+2025-01-15 13:58:18não funcionando
+2025-01-15 13:58:23não funcionando
+2025-01-15 13:58:29não funcionando
+2025-01-15 13:58:34não funcionando
+2025-01-15 13:58:39não funcionando
+2025-01-15 13:58:45não funcionando
+2025-01-15 13:58:50não funcionando
+2025-01-15 13:58:55não funcionando
+2025-01-15 13:59:01não funcionando
+2025-01-15 13:59:06não funcionando
+2025-01-15 13:59:11não funcionando
+2025-01-15 13:59:17não funcionando
+2025-01-15 13:59:22não funcionando
+2025-01-15 13:59:28não funcionando
+2025-01-15 13:59:33não funcionando
+2025-01-15 13:59:38não funcionando
+2025-01-15 13:59:44não funcionando
+2025-01-15 13:59:49não funcionando
+2025-01-15 13:59:55não funcionando
+2025-01-15 14:00:00não funcionando
+2025-01-15 14:00:05não funcionando
+2025-01-15 14:00:11não funcionando
+2025-01-15 14:00:16não funcionando
+2025-01-15 14:00:22não funcionando
+2025-01-15 14:00:27não funcionando
+2025-01-15 14:00:32não funcionando
+2025-01-15 14:00:38não funcionando
+2025-01-15 14:00:43não funcionando
+2025-01-15 14:00:49não funcionando
+2025-01-15 14:00:54não funcionando
+2025-01-15 14:01:00não funcionando
+2025-01-15 14:01:05não funcionando
+2025-01-15 14:01:10não funcionando
+2025-01-15 14:01:16não funcionando
+2025-01-15 14:01:21não funcionando
+2025-01-15 14:01:27não funcionando
+2025-01-15 14:01:32não funcionando
+2025-01-15 14:01:38não funcionando
+2025-01-15 14:01:43não funcionando
+2025-01-15 14:01:48não funcionando
+2025-01-15 14:01:54não funcionando
+2025-01-15 14:01:59não funcionando
+2025-01-15 14:02:05não funcionando
+2025-01-15 14:02:10não funcionando
+2025-01-15 14:02:15não funcionando
+2025-01-15 14:02:21não funcionando
+2025-01-15 14:02:26não funcionando
+2025-01-15 14:02:31não funcionando
+2025-01-15 14:02:37não funcionando
+2025-01-15 14:02:42não funcionando
+2025-01-15 14:02:48não funcionando
+2025-01-15 14:02:53não funcionando
+2025-01-15 14:02:58não funcionando
+2025-01-15 14:03:04não funcionando
+2025-01-15 14:03:09não funcionando
+2025-01-15 14:03:14não funcionando
+2025-01-15 14:03:20não funcionando
+2025-01-15 14:03:25não funcionando
+2025-01-15 14:03:31não funcionando
+2025-01-15 14:03:36não funcionando
+2025-01-15 14:03:41não funcionando
+2025-01-15 14:03:47não funcionando
+2025-01-15 14:03:52não funcionando
+2025-01-15 14:03:58não funcionando
+2025-01-15 14:04:03não funcionando
+2025-01-15 14:04:08não funcionando
+2025-01-15 14:04:14não funcionando
+2025-01-15 14:04:19não funcionando
+2025-01-15 14:04:25não funcionando
+2025-01-15 14:04:30não funcionando
+2025-01-15 14:04:35não funcionando
+2025-01-15 14:04:41não funcionando
+2025-01-15 14:04:47não funcionando
